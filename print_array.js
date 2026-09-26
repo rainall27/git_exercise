@@ -1,1 +1,4 @@
-var arr = [1, 2, 3];
+// Use forEach to console.log contents.
+arr.forEach(function(item) {
+    console.log(item);
+});
