@@ -1,1 +1,4 @@
-var arr = [1, 2, 3];
+// Use a for loop to console.log contents.
+for(var i=0; i<arr.length; i++) {
+    console.log(arr[i]);
+}
